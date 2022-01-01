@@ -1,5 +1,5 @@
 # PESSOA API REST
-Desafio Bootcamp DIO
-Spring Boot
-REST
-MapStruct
+Desafio Bootcamp DIO/n
+Spring Boot/n
+REST/n
+MapStruct/n
